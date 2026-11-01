@@ -1,0 +1,51 @@
+ h1{
+            color:lightgreen; 
+            background-color:brown;
+            text-align: center;
+            border: 10px dotted lightgreen;
+        
+            
+        }
+        
+        h3{
+            text-align: center;
+            color:lightgreen;
+            
+        }
+        
+        
+        
+        body{
+            background-color: brown
+        }
+        
+        h2{
+        
+            text-align: center;
+            color:lightgreen
+        }
+        
+img{
+      display:block;
+      margin:auto;
+      border:10px ;
+      
+}
+     
+td{
+    color:lightgreen;
+    border:5px dotted lightgreen;
+    text-align: center
+}
+
+caption{
+    color: lightgreen;
+}
+
+li{
+    color: lightgreen
+}
+
+table{
+    margin:auto;
+}
